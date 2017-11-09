@@ -16,7 +16,7 @@ import java.awt.*;//
 //PASO 2 - HEREDAR  LA CLASE DE JAVASWING
 public class JavaSwing 
 {
- //PASO 3-declarar elemento para 
+ //PASO 3-declara CAMPOS Y VARIABLES
     JPanel panel;
     JLabel label;
     JTextField text;
