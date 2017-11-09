@@ -13,7 +13,7 @@ import java.awt.*;//
  *
  * @author LAB08
  */
-//PASO 2 --HEREDAR LA CLASE DESDE JFRAME
+//PASO 2 - HEREDAR  LA CLASE DE JAVASWING
 public class JavaSwing 
 {
  //PASO 3-declarar elemento para 
